@@ -2,7 +2,7 @@
 
 **COMPANY**: CODTECH IT SOLUTIONS
 
-**NAME**: Harshad Jalindar Nikam
+**NAME**: Prathamesh Madhukar Ghadage
 
 **INTERN ID**: CT08LFZ
 
